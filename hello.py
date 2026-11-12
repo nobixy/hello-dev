@@ -2,7 +2,7 @@ import argparse
 
 
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Hello, {name}! Welcome to the dev server."
 
 
 def main():
